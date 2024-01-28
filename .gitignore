@@ -42,5 +42,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-.g.dart
-.freezed.dart
+/lib/model/*.g.dart
+/lib/model/*.freezed.dart
+
+/lib/providers/*.g.dart
